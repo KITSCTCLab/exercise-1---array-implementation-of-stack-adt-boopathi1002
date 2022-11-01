@@ -40,3 +40,4 @@ for line in range(queries):
 stack.status()
 
 
+
